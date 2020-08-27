@@ -11,4 +11,3 @@ if __name__ == "__main__":
 	A = Adder(1,3)
 	result = A.add()
 	print(result)
-	
